@@ -1,0 +1,12 @@
+.container {
+  padding: 30px;
+}
+
+.header {
+  display: inline-block;
+}
+
+.status-icon {
+  margin: 0 3px 0 10px;
+  height: 15px;
+}
